@@ -143,7 +143,7 @@
 
 .reservation {
   padding: 100px 0 120px;
-  background-image: center / cover no-repeat #d9e7ff
+  background: center / cover no-repeat #d9e7ff
     url(../images/background_reservation.svg);
 }
 
