@@ -10,14 +10,6 @@
   left: -50px;
 }
 
-.nav__links {
-  display: flex;
-  column-gap: 20px;
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-
 .nav__link {
   font-family: "Inter";
   font-style: normal;
@@ -28,6 +20,11 @@
   text-decoration: none;
   transition: 0.5s;
   cursor: pointer;
+  display: flex;
+  column-gap: 20px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .nav__link:hover {
