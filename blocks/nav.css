@@ -3,7 +3,7 @@
   justify-content: space-between;
 }
 
-.nav__log {
+.nav__logo {
   width: 105px;
   height: 39px;
   position: relative;
@@ -12,7 +12,6 @@
 
 .nav__links {
   display: flex;
-  align-items: center;
   column-gap: 20px;
   list-style-type: none;
   padding: 0;

@@ -27,17 +27,24 @@
 .recipes__videos {
   display: flex;
   justify-content: center;
-  padding: 40px 24px;
-  gap: 100px;
+  padding: 0;
+  gap: 40px;
   list-style-type: none;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 80px 40px 24px;
+}
+
+.recipes__iframe {
+  width: 560px;
+  height: 315px;
 }
 
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+  margin: 24px 0 0;
 }
